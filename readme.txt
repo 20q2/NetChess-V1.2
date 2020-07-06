@@ -26,7 +26,7 @@ Pawn: Recall - allows them to move and attack backwards
 
 Golems:
 King: King's Presence - All adjacent golems enter stone form - click on the king
-Queen: ???
+Queen: Stone Hop - Ignores stone form pieces
 Rook: Lateral Shield - protects from captures in any direction the rook could move
 Bishop: Diagnal Shield - protects from captures in any direction the bishop could move
 Knight: Pawn shield - prevents capture from enemy pawns
